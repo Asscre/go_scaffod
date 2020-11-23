@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b235e4c-3b99-4622-97a4-f9c5c4719240" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1kEE6i7DA44rCf93glPYqw9D03v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RunManager" selected="Go 构建.go build web_app">
+    <configuration name="create_table.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/models/create_table.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="go build web_app" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="bluebell" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="web_app" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go 构建.go build web_app" />
+        <item itemvalue="数据库脚本.create_table.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="375" key="#Go_模块" timestamp="1605257196125">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="640" y="375" key="#Go_模块/0.25.1680.1025@0.25.1680.1025" timestamp="1605257196125" />
+    <state x="1004" y="342" key="#Log_Highlighting_(ideolog)" timestamp="1605591995117">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="1004" y="342" key="#Log_Highlighting_(ideolog)/0.25.1680.1025@0.25.1680.1025" timestamp="1605591995117" />
+    <state x="411" y="371" key="#SQL_方言" timestamp="1605594452572">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="411" y="371" key="#SQL_方言/0.25.1680.1025@0.25.1680.1025" timestamp="1605594452572" />
+    <state x="440" y="200" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605581572736">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="440" y="200" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1605581572736" />
+    <state width="955" height="466" key="DebuggerActiveHint" timestamp="1605625027101">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="955" height="466" key="DebuggerActiveHint/0.25.1680.1025/-187.-1055.1920.1055@0.25.1680.1025" timestamp="1605625027101" />
+    <state width="955" height="466" key="DebuggerActiveHint/0.25.1680.1025@0.25.1680.1025" timestamp="1605595230611" />
+    <state x="517" y="319" key="EditFileWatcherDialog" timestamp="1605257218413">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="517" y="319" key="EditFileWatcherDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1605257218413" />
+    <state width="891" height="186" key="GridCell.Tab.0.bottom" timestamp="1605775456015">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="186" key="GridCell.Tab.0.bottom/0.25.1680.1025/-187.-1055.1920.1055@0.25.1680.1025" timestamp="1605625071688" />
+    <state width="891" height="186" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1605775456015" />
+    <state width="891" height="186" key="GridCell.Tab.0.center" timestamp="1605775456013">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="186" key="GridCell.Tab.0.center/0.25.1680.1025/-187.-1055.1920.1055@0.25.1680.1025" timestamp="1605625071687" />
+    <state width="891" height="186" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1605775456013" />
+    <state width="891" height="186" key="GridCell.Tab.0.left" timestamp="1605775456013">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="186" key="GridCell.Tab.0.left/0.25.1680.1025/-187.-1055.1920.1055@0.25.1680.1025" timestamp="1605625071687" />
+    <state width="891" height="186" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1605775456013" />
+    <state width="891" height="186" key="GridCell.Tab.0.right" timestamp="1605775456014">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="186" key="GridCell.Tab.0.right/0.25.1680.1025/-187.-1055.1920.1055@0.25.1680.1025" timestamp="1605625071688" />
+    <state width="891" height="186" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1605775456014" />
+    <state width="891" height="186" key="GridCell.Tab.1.bottom" timestamp="1605775456018">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="186" key="GridCell.Tab.1.bottom/0.25.1680.1025/-187.-1055.1920.1055@0.25.1680.1025" timestamp="1605625078240" />
+    <state width="891" height="186" key="GridCell.Tab.1.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1605775456018" />
+    <state width="891" height="186" key="GridCell.Tab.1.center" timestamp="1605775456017">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="186" key="GridCell.Tab.1.center/0.25.1680.1025/-187.-1055.1920.1055@0.25.1680.1025" timestamp="1605625078239" />
+    <state width="891" height="186" key="GridCell.Tab.1.center/0.25.1680.1025@0.25.1680.1025" timestamp="1605775456017" />
+    <state width="891" height="186" key="GridCell.Tab.1.left" timestamp="1605775456016">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="186" key="GridCell.Tab.1.left/0.25.1680.1025/-187.-1055.1920.1055@0.25.1680.1025" timestamp="1605625078239" />
+    <state width="891" height="186" key="GridCell.Tab.1.left/0.25.1680.1025@0.25.1680.1025" timestamp="1605775456016" />
+    <state width="891" height="186" key="GridCell.Tab.1.right" timestamp="1605775456017">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="186" key="GridCell.Tab.1.right/0.25.1680.1025/-187.-1055.1920.1055@0.25.1680.1025" timestamp="1605625078240" />
+    <state width="891" height="186" key="GridCell.Tab.1.right/0.25.1680.1025@0.25.1680.1025" timestamp="1605775456017" />
+    <state x="349" y="173" key="SettingsEditor" timestamp="1605257221142">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="349" y="173" key="SettingsEditor/0.25.1680.1025@0.25.1680.1025" timestamp="1605257221142" />
+    <state x="745" y="418" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1605258910268">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="745" y="418" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.25.1680.1025@0.25.1680.1025" timestamp="1605258910268" />
+    <state x="714" y="429" width="342" height="238" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1605259081729">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="714" y="429" width="342" height="238" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.25.1680.1025@0.25.1680.1025" timestamp="1605259081729" />
+    <state x="993" y="252" width="670" height="676" key="search.everywhere.popup" timestamp="1605581011558">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="993" y="252" width="670" height="676" key="search.everywhere.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1605581011558" />
+  </component>
+</project>
